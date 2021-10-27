@@ -1,0 +1,1 @@
+vcs -sverilog -full64 tb.v   DW_ram_2r_2w_s_dff.v   read_image.c  gen_image.c
